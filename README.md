@@ -1,4 +1,4 @@
-# datasciencecoursera
+﻿# datasciencecoursera
 John Hopkins Bloomberg School of Public Health, Coursera "The Data Scientist's Toolbox" Project Assignment.
 
 ## About data scientists
@@ -15,3 +15,6 @@ Whereas a traditional data analyst may look only at data from a single source �
 
 Data scientists are inquisitive: exploring, asking questions, doing “what if” analysis, questioning existing assumptions and processes. Armed with data and analytical results, a top-tier data scientist will then communicate informed conclusions and recommendations across an organization’s leadership structure.
 
+## Comments
+
+The Harvard business Review now refers to Data Scientist as "The Sexiest Job of the 21st Century." I'm not sure how they equate sex with data, but you might find out at [this link](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)... 
