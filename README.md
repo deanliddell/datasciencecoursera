@@ -1,11 +1,11 @@
 # datasciencecoursera
 John Hopkins Bloomberg School of Public Health, Coursera "The Data Scientist's Toolbox" Project Assignment.
 
-# About data scientists
+## About data scientists
 
 Rising alongside the relatively new technology of big data is the new job title data scientist. While not tied exclusively to big data projects, the data scientist role does complement them because of the increased breadth and depth of data being examined, as compared to traditional roles.
 
-# So what does a data scientist do?
+## So what does a data scientist do?
 
 A data scientist represents an evolution from the business or data analyst role. The formal training is similar, with a solid foundation typically in computer science and applications, modeling, statistics, analytics and math. What sets the data scientist apart is strong business acumen, coupled with the ability to communicate findings to both business and IT leaders in a way that can influence how an organization approaches a business challenge. Good data scientists will not just address business problems, they will pick the right problems that have the most value to the organization.
 
